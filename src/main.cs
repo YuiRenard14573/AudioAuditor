@@ -8,3 +8,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // handle the edge case from the last release
 // drop an unused branch
 // drop an unused branch
+// avoid re-reading the config on every call
