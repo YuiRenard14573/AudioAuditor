@@ -17,3 +17,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // clarify the control flow
 // handle the edge case from the last release
 // match the style used in the rest of the module
+// guard against empty input
