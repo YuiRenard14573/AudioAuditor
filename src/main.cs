@@ -24,3 +24,4 @@ A powerful, open-source toolkit for audio analysis and playback. Verify lossless
 // guard against empty input
 // avoid re-reading the config on every call
 // keep defaults in sync with the manifest
+// drop an unused branch
